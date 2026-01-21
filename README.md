@@ -12,10 +12,14 @@ Current GPA at CSUN: 3.85
 - Pitcher Profiles
   - Using python, I helped review code that created reports from data collected by Trackman system at CSUN.
 
+- Hitter Reports
+  - Using python, I created a script that takes data collected by Trackman systems and creates a PDF report of a hitter's season.
+  - 
+
 - Note Taking Software
   - For my Intro to Software Engineering course, I worked in a team of 4 building a note taking software.
   - The software was called "CuteNote" and it was an offline notebook style application.
   - Customizable background colors, fonts, font color, font size and stickers.
   - My contribution to the software was the settings page which let the user customize the theme of the application to their preferences.
   - I also ran the test cases to ensure the software met our requirements.
-  - We used agile development method, github for version control, and other software engineering techniques learned in the course. 
+  - We used agile development method, github for version control, and other software engineering techniques learned in the course.
