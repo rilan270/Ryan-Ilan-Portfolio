@@ -9,8 +9,23 @@ Current GPA at CSUN: 3.85
 - I have applied what I have learned in school to personal projects as well.
 
 # Projects
-- Pitcher Profiles
-  - Using python, I helped review code that created reports from data collected by Trackman system at CSUN.
+- Spray Charts
+  - Using python, I wrote a program that takes data collected by a Trackman and generates a PDF with spray charts.
+  - I used the data from the 2025 CSUN Fall scrimmages to test my program.
+  - I was asked to create this to have defensive positioning charts for coaching staff.
+  - The spray charts include:
+    - Color coded ball in play icons.
+    - Outline of CSUN field with dimensions.
+      - To generate the outline, I followed the trackman bearing measurement field set up.
+      - Dead center was 0° with the left field line being -45° and right field line being 45°.
+      - CSUN has right field, center field, power alleys, and left field distances listed.
+      - Original version of outfield wall was pointed and did not reflect real shape of the CSUN wall.
+      - Used google maps calculate distance feature to measure more distance datapoints along wall.
+      - Used inverse cosine to calculate angle with two distances, adjacnet being down right or left field line and the point I was measuring along the wall being the hypotenuse.
+      - Allowed me to better draw real CSUN wall shape.
+    - CSUN logo faded into center field grass.
+    - Features of every baseball field to further illustrate where the batted ball landed.
+      - Infield dirt and grass, bases, and pitching mound.
 
 - Hitter Reports
   - Using python, I created a script that takes data collected by Trackman systems and creates a PDF report of a hitter's season.
@@ -24,6 +39,9 @@ Current GPA at CSUN: 3.85
       - Contact Quality Metrics (AVG EV, Launch Angle, Hard Hit Rate, etc.)
     - Strike zone showcasing batters swing and whiff rates in divided parts of the zone.
     - A second page or "back side" to the report splitting the 3 tables and their respective stats by pitch type instead of pitcher handedness.
+   
+- Pitcher Profiles
+  - Using python, I helped review code that created reports from data collected by Trackman system at CSUN.
 
 - Note Taking Software
   - For my Intro to Software Engineering course, I worked in a team of 4 building a note taking software.
