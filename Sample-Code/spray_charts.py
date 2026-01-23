@@ -12,11 +12,11 @@ import argparse
 # Load file
 # ------------------------
 parser = argparse.ArgumentParser()
-parser.add_argument("file", help="CSV file name inside Data/combined_data")
+parser.add_argument("file")
 args = parser.parse_args()
 
-CSUN_BASE_DIR = r"C:\Users\rbi39252\Box\Baseball\CSUN Baseball Projects\CSUN_Baseball"
-data_dir = os.path.join(CSUN_BASE_DIR, "Data", "combined_data")
+CSUN_BASE_DIR = r'hi'
+data_dir = os.path.join(CSUN_BASE_DIR)
 file_name = os.path.join(data_dir, args.file)
 
 try:
