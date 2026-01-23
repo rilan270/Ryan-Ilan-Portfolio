@@ -14,7 +14,16 @@ Current GPA at CSUN: 3.85
 
 - Hitter Reports
   - Using python, I created a script that takes data collected by Trackman systems and creates a PDF report of a hitter's season.
-  - 
+  - I used the data from the CSUN Baseball Fall scrimmages to generate my first reports.
+  - My reports feature the following:
+    - Launch Angle and Average Exit Velocity Visual.
+    - Color coded spray chart of batter's hits overlayed onto a field with CSUN's logo and dimensions.
+    - 3 Metrics tables each with Totals and split to show stats VS. either handed pitcher
+      - Standard Metrics (AVG, OBP, SLG, OPS, Hits, PA)
+      - Approach Metrics (Swing Rate, Contact Rate, In vs Out of zone, K%, BB%)
+      - Contact Quality Metrics (AVG EV, Launch Angle, Hard Hit Rate, etc.)
+    - Strike zone showcasing batters swing and whiff rates in divided parts of the zone.
+    - A second page or "back side" to the report splitting the 3 tables and their respective stats by pitch type instead of pitcher handedness.
 
 - Note Taking Software
   - For my Intro to Software Engineering course, I worked in a team of 4 building a note taking software.
