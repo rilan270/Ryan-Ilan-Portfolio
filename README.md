@@ -6,9 +6,19 @@ Current GPA at CSUN: 3.85
 
 # Experience
 - I am currently working with the CSUN baseball team as a data analytics intern.
-- I have applied what I have learned in school to personal projects as well.
+- Python Libraries:
+  - Pybaseball
+  - Matplotlib
+  - Pandas
+  - Numpy
 
 # Projects
+- When Should You Challenge? Estimating ABS Challenge Value Using Matchup-Level RE288 Projections
+  - Abstract: "Our project researches the value of an ABS Challenge. We used machine learning, specifically an XGBoost model, to create a projection of RE288. We     looked at data from the 2023-2025 seasons and compared it to the baseline standard RE288. Our model includes batter and pitcher statistics for their season        long performances to better estimate a player specific run expectancy. Using this information, we created a strategy for how a team would use this in game         planning their approach to ABS. The model creates a RE288 table with projected numbers for a batter and pitcher matchup. It then calculates the value of a         challenge for each of the 288 situations. Finally, using the breakeven rate formula to get the percentage of correct challenges necessary to net even run          value. Using that percentage, a team would have their player know that if they are more than that percent confident the call was wrong, the player should use      the challenge. Our project also discusses ways the team will implement this information without having a player memorize 288 specific situation values for         numerous different matchups. A broad set of rules will be given to the players so the team may have their strategy implemented the way they want without           overwhelming players with information. Following games, audits will be held with players that are incorrectly using or not using challenges to help the player     learn. The overall goal of this project is to improve how teams utilize ABS Challenges."
+  - Project was presented to COMP 542 Course at CSUN.
+  - Submitted project to Saberseminar conference in Chicago.
+  - Co-Author: Jordan Gottlieb
+ 
 - Spray Charts
   - Using python, I wrote a program that takes data collected by a Trackman and generates a PDF with spray charts.
   - I used the data from the 2025 CSUN Fall scrimmages to test my program.
@@ -21,7 +31,7 @@ Current GPA at CSUN: 3.85
       - CSUN has right field, center field, power alleys, and left field distances listed.
       - Original version of outfield wall was pointed and did not reflect real shape of the CSUN wall.
       - Used google maps calculate distance feature to measure more distance datapoints along wall.
-      - Used inverse cosine to calculate angle with two distances, adjacnet being down right or left field line and the point I was measuring along the wall being the hypotenuse.
+      - Used inverse cosine to calculate angle with two distances, adjacnet being down right or left field line and the point I was measuring along the wall being         the hypotenuse.
       - Allowed me to better draw real CSUN wall shape.
     - CSUN logo faded into center field grass.
     - Features of every baseball field to further illustrate where the batted ball landed.
