@@ -18,6 +18,11 @@ Current GPA at CSUN: 3.85
   - Project was presented to COMP 542 Course at CSUN.
   - Submitted project to Saberseminar conference in Chicago.
   - Co-Author: Jordan Gottlieb
+  - Code for projected run expectancy of a matchup in sample code folder.
+  - Tables created for hypothetical Pete Alonso vs Mackenzie Gore matchup included in sample reports.
+    - Projected RE288 table is "xRuns_Gore...png"
+    - Value of challenge in specific sitaution table is "value_of_challenge.png"
+    - Confidence interval for matchup is "confidence_interval.png"
  
 - Spray Charts
   - Using python, I wrote a program that takes data collected by a Trackman and generates a PDF with spray charts.
