@@ -15,6 +15,10 @@ I have a passion for sports and data analytics.
   - Pandas
   - Numpy
   - and more
+ 
+# Reach Me
+- Email: rilan270@gmail.com
+- Connect with me on LinkedIn: [Ryan Ilan](https://www.linkedin.com/in/ryan-ilan/)
 
 # Projects
 - When Should You Challenge? Estimating ABS Challenge Value Using Matchup-Level RE288 Projections
