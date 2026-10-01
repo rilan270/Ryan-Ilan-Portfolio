@@ -72,3 +72,11 @@ I have a passion for sports and data analytics.
   - My contribution to the software was the settings page which let the user customize the theme of the application to their preferences.
   - I also ran the test cases to ensure the software met our requirements.
   - We used agile development method, github for version control, and other software engineering techniques learned in the course.
+
+# Currently Working on These Projects:
+- Stuff+ Model for CSUN Baseball Team
+- Computer Vision Project "What Pitch am I Throwing?"
+  - Using computer vision to extract data from MLB broadcasts of pitcher's motions up until their release point. using two machine learning models to predict what pitch type is being thrown. The goal of the project is to identify when a pitcher has a tell in their motion.
+- WATCHER Project with ARCS Lab at CSUN.
+  - Wheelchair Navigation Team
+  - Computer Vision Object Detection surrounding wheelchair
