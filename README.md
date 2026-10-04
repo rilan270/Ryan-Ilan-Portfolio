@@ -8,7 +8,7 @@ I have a passion for sports and data analytics.
 # Experience
 - I am currently working with sportFX.ai as a computer vision intern.
 - I am also currently working for the CSUN Baseball team as a Data Analyst.
-- I am presenting a research project at Saberseminar 2026 in Chicago on August 29th. 
+- I presented a research project at Saberseminar 2026 in Chicago on August 29th. 
 - Python Libraries:
   - Pybaseball
   - Matplotlib
