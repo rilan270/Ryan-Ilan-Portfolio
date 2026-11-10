@@ -3,7 +3,7 @@ Hi, I am Ryan Ilan.
 I am a Bachelor of Science student at CSUN with a Major in Computer Science and a Minor in Data Science. 
 I have a passion for sports and data analytics.
 - Current GPA at CSUN: 3.66
-- Expected Graduation Date: Spring 2027
+- Expected Graduation Date: May 2027
 
 # Experience
 - I am currently working with sportFX.ai as a computer vision intern.
