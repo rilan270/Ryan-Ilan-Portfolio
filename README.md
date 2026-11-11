@@ -7,15 +7,13 @@ I have a passion for sports and data analytics.
 
 # Experience
 - I am currently working with sportFX.ai as a computer vision intern.
-- I am also currently working for the CSUN Baseball team as a Data Analyst.
+- I am also currently working for the CSUN Baseball team as the Lead Student Analyst.
 - I presented a research project at Saberseminar 2026 in Chicago on August 29th. 
 - Python Libraries:
-  - Pybaseball
-  - Matplotlib
-  - Pandas
-  - Numpy
-  - and more
- 
+  - Pybaseball, Matplotlib, Pandas, Numpy, Seaborn
+- Computer Vision Model Libraries:
+  - MediaPipe, YoloV8, Ultralytics
+
 # Reach Me
 - Email: rilan270@gmail.com
 - Connect with me on LinkedIn: [Ryan Ilan](https://www.linkedin.com/in/ryan-ilan/)
